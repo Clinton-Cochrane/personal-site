@@ -35,3 +35,5 @@ export const useUserInfo = () => {
 	},[]);
     return {email, name, firstName}
 };
+
+
